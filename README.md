@@ -1,6 +1,6 @@
 - 👋 Hi, I’m parvez
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Php, Golang
+- 🌱 I’m currently working on Java, Golang
 - 💞️ I’m looking to collaborate on Open source Projects
 - 📫 How to reach me Parvezkhan12799@gmail.com
 
